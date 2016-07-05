@@ -4,4 +4,4 @@ Branding assets such as logo, colors etc.
 
 ### Word mark
 
-![Word Mark](https://cdn.rawgit.com/TypeResources/Branding/master/Wordmark/wordmark-200x200.svg)
+![Word Mark](https://cdn.rawgit.com/TypeResources/Branding/master/Wordmark/wordmark-200x200.png)
